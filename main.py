@@ -1,5 +1,4 @@
-# REZA EBADI
-# 4002023025
+
 operators = ['(', ')', '/', '*', '+', '-']
 def number(temp):
     global operators
